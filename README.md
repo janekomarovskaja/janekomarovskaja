@@ -21,12 +21,12 @@
 <div id="header" align="center" display="flex">
     <br>
  <a href="mailto:jane.komarovskaja@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="70" height="70">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="60" height="60">
     </a>
     <a href="https://t.me/kukuruzskaa">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/600px-Telegram_Messenger.png" width="70" height="70">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/600px-Telegram_Messenger.png" width="60" height="60">
     </a>
     <a href="https://www.linkedin.com/in/evgenia-komarovskaja-87a789293/">
-        <img src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" width="70" height="70">
+        <img src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" width="60" height="60">
     </a>
 </div>
