@@ -1,6 +1,7 @@
 <div id="header" align="center">
-    <h3>Всем привет! Меня зовут Евгения и я Manual QA Engineer.:)</h3>
+    <h3>Всем привет! Меня зовут Евгения и я Manual QA Engineer:)</h3>
 </div>
+
 <div id="description">
     <p>
 Пока мой основной опыт работы - учебные проекты в рамках курса "инженер по тестированию" от Яндекс Практикум. Но я также принимаю участие в pet проекте и являюсь бета-тестером сервиса иви.
@@ -17,15 +18,15 @@
 Моя главная цель - начать карьеру в тестировании. На данный момент стараюсь дальше улучшать свои навыки в ручном тестировании и автоматизации.</p>
 </div>
 
-<div id="header" align="center">
+<div id="header" align="center" display="flex">
     <br>
  <a href="mailto:jane.komarovskaja@gmail.com">
-        <img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/10/91/5f9b61e42640e.png">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="70" height="70">
     </a>
     <a href="https://t.me/kukuruzskaa">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/600px-Telegram_Messenger.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/600px-Telegram_Messenger.png" width="70" height="70">
     </a>
     <a href="https://www.linkedin.com/in/evgenia-komarovskaja-87a789293/">
-        <img src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg">
+        <img src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" width="70" height="70">
     </a>
 </div>
